@@ -1,7 +1,7 @@
 # Olá, eu sou o Miguel Caparroz! 👋
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQqqcf-NYAd6XXPLTVJdYdg7llaUVCewRRQ&s" width="50%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQqqcf-NYAd6XXPLTVJdYdg7llaUVCewRRQ&s" width="20%" />
 </div>
 
 ## 🚀 Sobre mim
