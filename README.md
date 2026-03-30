@@ -1,7 +1,7 @@
 # Olá, eu sou o Miguel Caparroz! 👋
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuQqqcf-NYAd6XXPLTVJdYdg7llaUVCewRRQ&s" width="20%" />
+  <img src="https://promotive-public-images.s3.sa-east-1.amazonaws.com/a_fotos_vehiculos/m_porsche%20panamera%204%2025.jpg" width="20%" />
 </div>
 
 ## 🚀 Sobre mim
