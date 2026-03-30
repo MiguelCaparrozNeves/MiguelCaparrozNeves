@@ -12,8 +12,5 @@ Atualmente, sou aluno do curso de **Desenvolvimento de Sistemas no SENAI**. Esto
 - 💡 **Foco atual:** Lógica de Programação, Estrutura de Dados e Desenvolvimento Web.
 - 🌱 **Em aprendizado:** JavaScript, Java e SQL.
 
-  # 📱 Redes Sociais
-<a href="http://instagram.com/caparrozzzz/" target="_blank">Instagram</a>
-
-
+ 
 
