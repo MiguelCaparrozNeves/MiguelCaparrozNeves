@@ -1,7 +1,7 @@
 # Olá, eu sou o Miguel Caparroz! 👋
 
 <div align="center">
-  <img src="https://static.biologianet.com/2020/05/jacare-do-papo-amarelo.jpg" width="100%" />
+  <img src="" width="100%" />
 </div>
 
 ## 🚀 Sobre mim
