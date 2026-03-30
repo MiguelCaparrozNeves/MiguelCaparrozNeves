@@ -1,7 +1,7 @@
 # Olá, eu sou o Miguel Caparroz! 👋
 
 <div align="center">
-  <img src="https://images.hgmsites.net/lrg/2025-porsche-panamera-rwd-angular-front-exterior-view_100942212_l.webp" width="20%" />
+  <img src="https://images.hgmsites.net/lrg/2025-porsche-panamera-rwd-angular-front-exterior-view_100942212_l.webp" width="50%" />
 </div>
 
 ## 🚀 Sobre mim
