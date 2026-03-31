@@ -1,7 +1,7 @@
 # Olá, eu sou o Miguel Caparroz! 👋
 
  <div align="center">
-  <img src="https://imgur.com" alt="A Criação de Adão" width="500">
+  <img src="https://static8.depositphotos.com/1308254/1019/v/450/depositphotos_10196891-stock-illustration-the-creation-of-adam.jpg" width="500">
 </div>
 
 
