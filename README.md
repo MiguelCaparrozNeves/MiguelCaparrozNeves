@@ -1,10 +1,6 @@
 # Olá, eu sou o Miguel Caparroz! 👋
 
- <div align="center">
-  <img src="https://static8.depositphotos.com/1308254/1019/v/450/depositphotos_10196891-stock-illustration-the-creation-of-adam.jpg" width="500">
-</div>
-
-
+ 
 ## 🚀 Sobre mim
 
 Atualmente, sou aluno do curso de **Desenvolvimento de Sistemas no SENAI**. Estou focado em aprender as melhores práticas do mercado para me tornar um desenvolvedor de alta performance.
