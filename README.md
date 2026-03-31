@@ -1,4 +1,4 @@
-# Olá, eu sou o Miguel Caparroz! 👋
+r# Olá, eu sou o Miguel Caparroz! 👋
 
 <div align="center">
   <img src=""C:\Users\Dev_1o_Ano\Downloads\Design sem nome (1) - Copia.mp4"" width="50%" />
@@ -12,5 +12,14 @@ Atualmente, sou aluno do curso de **Desenvolvimento de Sistemas no SENAI**. Esto
 - 💡 **Foco atual:** Lógica de Programação, Estrutura de Dados e Desenvolvimento Web.
 - 🌱 **Em aprendizado:** JavaScript, Java e SQL.
 
+ ### 📫 Como me encontrar:
  
+</a>
+<a href="mailto:miguelcaparroz08@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.instagram.com/caparrozzzz">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 
