@@ -1,4 +1,4 @@
-r# Olá, eu sou o Miguel Caparroz! 👋
+# Olá, eu sou o Miguel Caparroz! 👋
 
 <div align="center">
   <img src=""C:\Users\Dev_1o_Ano\Downloads\Design sem nome (1) - Copia.mp4"" width="50%" />
