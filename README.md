@@ -1,7 +1,8 @@
 # Olá, eu sou o Miguel Caparroz! 👋
 
 <div align="center">
-  <img src=""C:\Users\Dev_1o_Ano\Downloads\Design sem nome (1) - Copia.mp4"" width="50%" />
+  <img src="<img width="1366" height="351" alt="banner" src="https://github.com/user-attachments/assets/812985fb-1449-4b3b-991a-92ebd3d0a0f1" />
+"C:\Users\Dev_1o_Ano\Downloads\Design sem nome (1) - Copia.mp4"" width="50%" />
 </div>
 
 ## 🚀 Sobre mim
